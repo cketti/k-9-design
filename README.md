@@ -3,7 +3,7 @@
 
 
 ## K-9 Mail is a FOSS Android mail client. 
-It welcomes tinkering, customizing, and adapting to anyone’s needs. This design celebrates the expressive and free nature of K-9. Attempting to get out of the way in favor of utility, without sacrificing delight. It’s highly modifiable and customizable - from specific settings (now neatly organized) to signatures and modular color themes. It was informed by feedback from [this survey](https://uxquestionnaire.typeform.com/to/SHacN5/) —everyone’s continued feedback is important.
+It welcomes tinkering, customizing, and adapting to anyone’s needs. This design celebrates the expressive nature of K-9. Attempting to get out of the way in favor of utility, without sacrificing delight. It’s highly modifiable and customizable - from specific settings(now neatly organized) to signatures and modular color themes. 
 
 --
 
@@ -16,7 +16,7 @@ All design work was done in Sketch. The master file includes:
 --
 
 #### User input
-This design is influenced by feedback from K-9 users. You can click here to [read a summary](../master/Feedback/FEEDBACK.md)  of feedback given so far. 
+This design is influenced by [feedback from K-9 users](https://uxquestionnaire.typeform.com/to/SHacN5/). You can click here to [read a summary](../master/Feedback/FEEDBACK.md) of feedback given so far. 
 
 --
 
