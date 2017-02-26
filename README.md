@@ -16,7 +16,7 @@ All design work was done in Sketch. The master file includes:
 --
 
 #### User input
-This design is influenced by [feedback from K-9 users](https://uxquestionnaire.typeform.com/to/SHacN5/). You can [read a summary here](../master/Feedback/FEEDBACK.md) of feedback given so far. 
+This design is influenced by [feedback](https://uxquestionnaire.typeform.com/to/SHacN5/) from K-9 users. [Read a summary here](../master/Feedback/FEEDBACK.md) of feedback given so far. 
 
 --
 
