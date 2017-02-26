@@ -28,6 +28,7 @@ This design is influenced by [feedback](https://uxquestionnaire.typeform.com/to/
 
 Need a specific value that isn’t annotated? The K-9 design file is also available on [Zeplin](https://zpl.io/ZEjQ4O) - a collaborative tool for engineers and designers to work together. It’s free to register, and you can click around and get all the visual details you need. 
 
+--
 
 #### Designers - want to help?
 
