@@ -20,6 +20,12 @@ This design is influenced by [feedback](https://uxquestionnaire.typeform.com/to/
 
 --
 
+#### Creating issues
+
+Please use issues to add new feature requests, or discuss contributions you've made. A survey for everyone's design feedback will be created soon. The goal is to see overarching feedback trends in a quantifiable manner, versus noise from a lot of fragmented subjective opinions.
+
+--
+
 #### Developers - how to use this repo
 - You can see a high level view of the entire app flow in **Flows**. Each screen is labeled.
 - To see a specific screen up close you can find it in the **Screens** folder. 
@@ -37,3 +43,4 @@ Need a specific value that isn’t annotated? The K-9 design file is also availa
 - Design-engineer communication and documentation could always use some help. It ensures designs are built to spec. You can help by creating annotated design documents, or any other artifacts that help collaboration.
 
 Note: We need to expand functionality above anything else. This design is by no means perfect, but it’s a starting point. Redesigning this version for pure aesthetic value is not really a priority at this point. It should definitely be explored in the future, but it’s best to wait until this version of the design is launched first.
+
