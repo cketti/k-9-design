@@ -32,6 +32,7 @@ Need a specific value that isn’t annotated? The K-9 design file is also availa
 
 #### Designers - want to help?
 
+- Annotating screens and documenting styles are the biggest need right now.
 - Please help design new user stories! Take a look at the user survey summary for new feature ideas. 
 - Design-engineer communication and documentation could always use some help. It ensures designs are built to spec. You can help by creating annotated design documents, or any other artifacts that help collaboration.
 
